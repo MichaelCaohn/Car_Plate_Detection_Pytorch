@@ -1,0 +1,6 @@
+classes= 1
+train=car_data/training.txt
+valid=car_data/validation.txt
+names=data/coco.names
+backup=backup/
+eval=coco
