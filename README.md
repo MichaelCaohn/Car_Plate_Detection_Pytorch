@@ -39,7 +39,7 @@ https://pjreddie.com/yolo/.
     $ cd weights/
     $ bash download_weights.sh
     
-##### Download COCO
+##### Download Car Data from JSON file
     $ python3 pre_process.py
     
 ##### Download COCO
