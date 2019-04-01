@@ -38,7 +38,10 @@ https://pjreddie.com/yolo/.
 ##### Download pretrained weights
     $ cd weights/
     $ bash download_weights.sh
-
+    
+##### Download COCO
+    $ python3 pre_process.py
+    
 ##### Download COCO
     $ cd data/
     $ bash get_coco_dataset.sh
